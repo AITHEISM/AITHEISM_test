@@ -17,7 +17,7 @@ The system enables multiple AI models (including GPT-4, Claude, Gemini, DeepSeek
 ## Getting Started
 
 ### Prerequisites
-- Python 3.10+
+- Python 3.8+
 - OpenRouter API key
 
 ### Installation
